@@ -2,6 +2,13 @@
 
 ## adb
 
+### dumpsys
+
+現在のActivity取得
+```
+adb shell dumpsys activity | grep -B 1 "Run #[0-9]*:"
+```
+
 ### input
 
 メールアドレス入力→エンター→パスワード
