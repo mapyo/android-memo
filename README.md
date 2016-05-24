@@ -31,6 +31,11 @@ adb shell input text example@example.com; adb shell input keyevent 66; adb shell
 adb shell pm list package
 ```
 
+## 便利ツール
+
+- Vysor
+ - https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm
+ - http://hack-it-iron.hatenablog.com/entry/2015/09/25/164444
 
 ## Coding Style
 - https://github.com/cookpad/styleguide/blob/master/java.ja.md
