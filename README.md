@@ -41,3 +41,12 @@ adb shell pm list package
 - https://github.com/cookpad/styleguide/blob/master/java.ja.md
 - https://github.com/cookpad/android-code-style
 
+## tips
+
+### 端末の横幅・高さを取得する
+
+```
+getResources().getDisplayMetrics().widthPixels
+getResources().getDisplayMetrics().heightPixels
+```
+
