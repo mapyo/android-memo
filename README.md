@@ -31,6 +31,11 @@ adb shell input text example@example.com; adb shell input keyevent 66; adb shell
 adb shell pm list package
 ```
 
+### kill-server start-server
+```
+adb kill-server; adb start-server
+```
+
 ## 便利ツール
 
 - Vysor
