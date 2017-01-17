@@ -31,6 +31,14 @@ adb shell input text example@example.com; adb shell input keyevent 66; adb shell
 adb shell pm list package
 ```
 
+### run-as
+アプリ内のデータを見る
+
+```
+adb shell
+adb run-as com.hoge # パッケージ名
+```
+
 ### kill-server start-server
 ```
 adb kill-server; adb start-server
