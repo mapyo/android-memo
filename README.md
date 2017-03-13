@@ -63,3 +63,10 @@ getResources().getDisplayMetrics().widthPixels
 getResources().getDisplayMetrics().heightPixels
 ```
 
+## gradle
+
+### 署名情報の確認
+
+```
+./gradlew signingReport
+```
