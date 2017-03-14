@@ -70,3 +70,11 @@ getResources().getDisplayMetrics().heightPixels
 ```
 ./gradlew signingReport
 ```
+
+## Android Studio
+
+### shortcut
+| shortcut | description |
+|:----------:|:-----------:|
+| Super Method | ⌘U        |
+| Implementatiosn(s) | ⌥⌘B      |
